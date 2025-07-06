@@ -1,7 +1,2 @@
-
-
-
-cat > kotlin.txt
-
-
-
+Nombre: Christian Malpicah
+Correo: christian.malpicaherz@gmail.com
